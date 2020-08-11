@@ -1,4 +1,4 @@
-# producthunt
+# RESTAPIDJANGO
 The purpose of this project is the to build a REST API with abilities of post,get, put, patch and delete method as well as user creation, login and search. 
 Moreover each user is able to put status and update it and view or search others'. The localhost/8080/api has three sub-roots:
 
