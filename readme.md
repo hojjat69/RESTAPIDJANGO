@@ -4,6 +4,7 @@ Moreover each user is able to put status and update it and view or search others
 
 localhost/8080/api/profile/ >> to view users, search (by name and email), create and update (if authenticated) user profile
 localhost/8080/api/feed/ >> to create a status or update, search and view (if authenticated) others' 
+localhost:8000/api/hello-viewset/ to test API viewset and viewset methods like  post,get, put, patch and delete method 
 
 to check update and its authentication ability>> localhost/8080/api/feed/<feed_id>/
 
