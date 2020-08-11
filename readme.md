@@ -42,6 +42,9 @@ to check update and its authentication ability>> localhost/8080/api/feed/<feed_i
 7. Then login with created users in localhost/8080/api/profile/login and check the API abilities
 
 
+8. Copy the token provided by API and use it in ModHeader as Authorization 
+
+
   
 6. Open your browser and browse `http://127.0.0.1:8000/`
 
